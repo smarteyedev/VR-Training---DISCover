@@ -2,38 +2,39 @@
 
 ## Description
 
-This project is a Virtual Reality (VR) application designed to [state the purpose of the application, e.g., "reduce player eye strain" or "provide an immersive experience in a specific simulation environment"].
+DISCover adalah game berbasis DISC Personality Test yang mengajak pemain mengenali kepribadian mereka melalui tes kepribadian dalam pengalaman VR yang imersif. Pemain berperan sebagai developer baru di sebuah perusahaan VR. Dalam permainan ini, pemain akan menyelesaikan tes kepribadian melalui panduan NPC bernama Fadil, yang memvisualisasikan setiap pertanyaan dalam lingkungan simulasi.
 
 ---
 
 ## Key Features
 
-1. **[Feature 1]**: [Brief description of the feature, e.g., "Real-time object interaction in the VR environment"]
-2. **[Feature 2]**: [Brief description of the feature, e.g., "Object rotation adjustments for a more realistic experience"]
-3. **[Feature 3]**: [Brief description of the feature, e.g., "Optimized to reduce eye strain"]
+1. Immersive Personality Test in VR
+Pengalaman tes kepribadian DISC dalam lingkungan VR yang interaktif dan imersif, memberikan sensasi unik yang berbeda dari tes kepribadian tradisional.
+2. Interactive Questions with Visual Feedback
+Setiap pertanyaan disertai visualisasi pilihan jawaban, membantu pemain memahami konteks keputusan mereka dan meningkatkan keterlibatan secara emosional.
+3. Personalized DISC Results
+Hasil kepribadian pemain dihitung secara real-time dan disajikan dalam format menarik serta intuitif, memberikan wawasan langsung tentang profil DISC pemain.
 
 ---
 
 ## Requirement
 
-- Unity version [version used]
-- A compatible VR SDK (e.g., Oculus, HTC Vive, etc.)
-- [Additional devices or tools if required]
+Unity version 2022.3.6f1
+Oculus
 
 ---
 
 ## Developer
 
-- **Nama Developer:** Aditya Bambang Triono  
-  **Peran:** [Peran Developer, misalnya "Frontend Developer"]  
-  **Email:** [email@example.com]  
+- **Nama Developer:** [Nama Developer 1]  
+  **Peran:** Programmer
+  **Email:** Adityabt2006@gmail.com
 
-- **Nama Developer:** [Nama Developer 2]  
-  **Peran:** [Peran Developer, misalnya "Backend Developer"]  
-  **Email:** [email@example.com]  
-
-- **Nama Developer:** [Nama Developer 3]  
-  **Peran:** [Peran Developer, misalnya "Game Designer"]  
-  **Email:** [email@example.com]
-
+- **Nama Developer:** Fahriza Dwi Cahyo
+  **Peran:** 3D Artist
+  **Email:** fahrizadwicr15@gmail.com
+  
+- **Nama Developer:** Muhammad Riva Rizky Pratama
+  **Peran:** UI/UX
+  **Email:** rivarizky48@gmail.com 
 
