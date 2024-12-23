@@ -24,7 +24,7 @@ This project is a Virtual Reality (VR) application designed to [state the purpos
 
 ## Developer
 
-- **Nama Developer:** [Nama Developer 1]  
+- **Nama Developer:** Aditya Bambang Triono  
   **Peran:** [Peran Developer, misalnya "Frontend Developer"]  
   **Email:** [email@example.com]  
 
