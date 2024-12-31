@@ -26,7 +26,7 @@ Oculus
 
 ## Developer
 
-- **Nama Developer:** [Nama Developer 1]  
+- **Nama Developer:** Aditya Bambang Triono 
   **Peran:** Programmer
   **Email:** Adityabt2006@gmail.com
 
